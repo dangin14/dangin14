@@ -1,0 +1,6 @@
+Features:
+
+✔ Encrypts a message using a shift value
+✔ Decrypts an encrypted message using the same shift
+✔ Handles uppercase and lowercase letters
+✔ Ignores non-alphabetic characters
